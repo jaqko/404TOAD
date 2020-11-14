@@ -11,3 +11,7 @@ ___
 - Also attempted to make a Discord bot from May-June of 2020
 - Ex-Java user *(Sorry, Oracle)*
 - Game developer for about 3 months now
+
+#### **Disclaimer ⚠️**
+
+Most of my projects are either abandoned, like Pulse, or heavily worked on behind the scenes, like Corruption.

@@ -12,6 +12,10 @@ ___
 - Ex-Java user *(Sorry, Oracle)*
 - Game developer for about 3 months now
 
+### **Activity 📊**
+
+> **Fairly active**
+
 #### **Disclaimer ⚠️**
 
 Most of my projects are either abandoned, like Pulse, or heavily worked on behind the scenes, like Corruption. Since I'm a game developer, I don't partake in open-source that much. I don't even know how to `cd-dir` it properly.

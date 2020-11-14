@@ -2,7 +2,7 @@
 
 ___
 
-### **Achievements:**
+### **Achievements 🥇**
 
 - Member for 1 year
 - Member for 2 years

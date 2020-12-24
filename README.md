@@ -14,7 +14,7 @@ ___
 
 ### **Activity 📊**
 
-> **Fairly active**
+> **Fairly active, contact me: https://discord.gg/yn4PkSYb7b**
 
 ### **Disclaimer ⚠️**
 

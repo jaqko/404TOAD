@@ -14,7 +14,7 @@ ___
 
 ### **Activity 📊**
 
-> **Fairly active, contact me: https://discord.gg/yn4PkSYb7b**
+> **Fairly active, contact me: jacko#1597**
 
 ### **Disclaimer ⚠️**
 

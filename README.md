@@ -18,4 +18,4 @@ ___
 
 ### **Disclaimer ⚠️**
 
-Most of my projects are either abandoned, like Pulse, or heavily worked on behind the scenes, like Corruption. Since I'm a game developer, I don't partake in open-source that much. I don't even know how to `cd-dir` properly.
+Most of my projects are either abandoned or heavily worked on behind the scenes. Since I'm a game developer, I don't partake in open-source that much. I don't even know how to `cd-dir` properly.

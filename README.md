@@ -1,6 +1,9 @@
 ## I'm [@jaqko](https://github.com/jaqko), and I make games. 🎮
 
 ___
+### **Recent 🎮**
+
+I've started working on a car crash tycoon...thing. Check out some of my progress [here](https://wreckingroad.repl.co).
 
 ### **Achievements 🥇**
 
@@ -20,4 +23,4 @@ ___
 
 ### **Disclaimer ⚠️**
 
-Most of my projects are either abandoned or heavily worked on behind the scenes. Since I'm a game developer, I don't partake in open-source that much. I don't even know how to `cd-dir` properly.
+Most of my projects are either abandoned or heavily worked on behind the scenes. Since I'm a game developer, I don't partake in open-source that much. If I do, it's only the scripts within the game.

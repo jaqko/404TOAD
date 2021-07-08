@@ -19,7 +19,7 @@ I've started working on a car crash tycoon...thing. Check out some of my progres
 
 ### **Activity 📊**
 
-> **Fairly active, contact me: jacko#1597**
+Fairly active, contact me on Discord at @jacko#1597
 
 ### **Disclaimer ⚠️**
 

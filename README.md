@@ -15,7 +15,7 @@ I've started working on a go-karting game called __*Breakpoint Racing*__. Check 
 - Tried at web development from 2018-2020
 - Also attempted to make a Discord bot from May-June of 2020
 - Ex-Java user *(Sorry, Oracle)*
-- Game developer for about 6 months now
+- Game developer for about 1 year now
 
 ### **Activity 📊**
 

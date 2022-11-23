@@ -3,8 +3,6 @@
 ___
 ### **Recent 🎮**
 
-I've started working on a go-karting game called __*Breakpoint Racing*__. Check out some of my progress [here](https://www.youtube.com/watch?v=4r-MK6EZlus).
-
 ### **Achievements 🥇**
 
 - Member for 1 year

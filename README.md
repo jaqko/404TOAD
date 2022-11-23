@@ -13,7 +13,7 @@ ___
 - Tried at web development from 2018-2020
 - Also attempted to make a Discord bot from May-June of 2020
 - Ex-Java user *(Sorry, Oracle)*
-- Game developer for about 1 year now
+- Game developer for about 2 years now
 
 ### **Activity 📊**
 

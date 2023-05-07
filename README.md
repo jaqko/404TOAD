@@ -12,12 +12,8 @@ ___
 - Started learning Python around June 2016
 - Tried at web development from 2018-2020
 - Also attempted to make a Discord bot from May-June of 2020
-- Ex-Java user *(Sorry, Oracle)*
 - Game developer for about 2 years now
-
-### **Activity 📊**
-
-Fairly active. Do not contact me.
+- Started taking Java classes in August 2022
 
 ### **Disclaimer ⚠️**
 
